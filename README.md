@@ -2,7 +2,7 @@
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning java + DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me am1770475@gmail.com
+- 📫 How to reach me amitmishra99352592@gmail.com
 
 <!---
 Student-amit/Student-amit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
